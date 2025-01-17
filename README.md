@@ -54,18 +54,6 @@
         <p>• Lógica de programação (FLEXXO);</p>
         <p>• PHP (FLEXXO).</p>
         
-        <h2>Linguagens de Programação</h2>
-        <ul>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="24" height="24"> C</li>
-            <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="24" height="24"> PHP</li>
-        </ul>
-        
-        <h2>Redes Sociais</h2>
-        <ul>
-            <li><a href="linkedin.com/in/carolinademorirossato" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"> LinkedIn</a></li>
-            <li><a href="https://www.instagram.com/crossato2147/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="24" height="24"> Instagram</a></li>
-        </ul>
-        
         <h2>Contato</h2>
         <p>Email: <a href="mailto:crossato2147@gmail.com">crossato2147@gmail.com</a></p>
     </div>
