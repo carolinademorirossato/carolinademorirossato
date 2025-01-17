@@ -53,9 +53,6 @@
         <p>• Excel básico e avançado(gerencial);</p>
         <p>• Lógica de programação (FLEXXO);</p>
         <p>• PHP (FLEXXO).</p>
-        
-        <h2>Contato</h2>
-        <p>Email: <a href="mailto:crossato2147@gmail.com">crossato2147@gmail.com</a></p>
     </div>
 </body>
 </html>
