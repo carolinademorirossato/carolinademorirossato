@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -15,5 +14,4 @@
         <p>• PHP (FLEXXO).</p>
     </div>
 </body>
-</html>
 </html>
