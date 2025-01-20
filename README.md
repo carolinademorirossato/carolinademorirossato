@@ -62,5 +62,7 @@
             </picture>
         </a>
     </p>
+    <h3>GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=carolinademorirossato&show_icons=true&theme=algolia" alt="GitHub Stats">
 </body>
 </html>
