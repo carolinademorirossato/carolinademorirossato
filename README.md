@@ -6,7 +6,7 @@
     <title>Carolina Demori Rossato</title>
 </head>
 <body>
-    <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gif de boas vindas">Meu chamo Carolina Demori Rossato</h1>
+    <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gif de boas vindas">Carolina Demori Rossato</h1>
     <hr>
     <h2>Estudante de Análise e Desenvolvimento de Sistemas</h2>
     <p>Iniciando aprendizados em programação, focada em aprender cada dia mais e adquirir conhecimentos em tecnologia da informação.</p>
@@ -19,7 +19,7 @@
     </ul>
     <p>
         <strong>🌍</strong> Caxias do Sul/RS;<br>
-        <strong>✉️</strong> Email<a href="mailto:crossato2147@gmail.com;">crossato2147@gmail.com;</a><br>
+        <strong>✉️</strong> Email<a href="mailto:crossato2147@gmail.com">crossato2147@gmail.com</a><br>
         <strong>🤝</strong> Estou aberta a colaborar em Startups, projetos para desenvolvimento de sites e software, tanto back-end quanto front-end, banco de dados SQL,cybersegurança e projetos com IA;<br>
         <strong>⚡</strong> Adquirindo conhecimentos em Linux.
     </p>
