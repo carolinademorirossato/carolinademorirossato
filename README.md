@@ -6,7 +6,7 @@
     <title>Carolina Demori Rossato</title>
 </head>
 <body>
-    <h1>Oi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gif de boas vindas">Meu nome é Carolina Demori Rossato</h1>
+    <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gif de boas vindas">Meu chamo Carolina Demori Rossato</h1>
     <hr>
     <h2>Estudante de Análise e Desenvolvimento de Sistemas</h2>
     <p>Iniciando aprendizados em programação, focada em aprender cada dia mais e adquirir conhecimentos em tecnologia da informação.</p>
@@ -18,12 +18,11 @@
         <li>PHP (FLEXXO).</li>
     </ul>
     <p>
-        <strong>🌍</strong> Estou baseada em Caxias do Sul/RS;<br>
-        <strong>✉️</strong> Você pode me contatar em <a href="mailto:crossato2147@gmail.com;">crossato2147@gmail.com;</a><br>
-        <strong>🤝</strong> Estou aberta a colaborar em Startups, projetos para desenvolvimento de sites e software, tanto back-end quanto front-end, banco de dados SQL...<br>
+        <strong>🌍</strong> Caxias do Sul/RS;<br>
+        <strong>✉️</strong> Email<a href="mailto:crossato2147@gmail.com;">crossato2147@gmail.com;</a><br>
+        <strong>🤝</strong> Estou aberta a colaborar em Startups, projetos para desenvolvimento de sites e software, tanto back-end quanto front-end, banco de dados SQL,cybersegurança e projetos com IA;<br>
         <strong>⚡</strong> Adquirindo conhecimentos em Linux.
     </p>
-
     <h3>Habilidades</h3>
     <p align="left">
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -39,7 +38,6 @@
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux">
         </a>
     </p>
-
     <h3>Redes Sociais</h3>
     <p align="left">
         <a href="http://www.instagram.com/crossato2147" target="_blank" rel="noreferrer">
