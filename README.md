@@ -8,7 +8,7 @@
 <body>
     <h1><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Gif de boas vindas">Bem-vindo ao meu perfil</h1>
     <hr>
-    <h2>Estudante de Análise e Desenvolvimento de Sistemas FSG(Caxias do Sul).</h2>
+    <h2>Estudante de Análise e Desenvolvimento de Sistemas FSG(Caxias do Sul)</h2>
     <p>Iniciando aprendizados em programação, focada em aprender cada dia mais e adquirir conhecimentos em tecnologia da informação.</p>
     <ul>
         <li>Boa comunicação, responsabilidade, vontade de aprender e dedicação;</li>
