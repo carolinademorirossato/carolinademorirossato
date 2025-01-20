@@ -64,5 +64,9 @@
     </p>
     <h3>GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=carolinademorirossato&show_icons=true&theme=algolia" alt="GitHub Stats">
+          </a>
+    </p>
+    <h3>Top Langs</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinademorirossato&layout=donut" alt="Top Langs"> 
 </body>
 </html>
