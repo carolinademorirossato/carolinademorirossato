@@ -81,13 +81,6 @@
                 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" />
             </picture>
         </a>
-        <a href="https://codesandbox.io/u/carolinademorirossato" target="_blank" rel="noreferrer">
-            <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" />
-                <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" />
-                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" />
-            </picture>
-        </a>
         <a href="https://www.dev.to/carolinademorirossato" target="_blank" rel="noreferrer">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
