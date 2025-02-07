@@ -62,11 +62,18 @@
             </picture>
         </a>
     </p>
-    <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=carolinademorirossato&show_icons=true&theme=algolia" alt="GitHub Stats">
-          </a>
-    </p>
-    <h3>Top Langs</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinademorirossato&layout=donut&theme=algolia" alt="Top Langs" />
+    <h3>GitHub Stats e Top Langs</h3>
+    <table>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=carolinademorirossato&show_icons=true&theme=algolia" alt="GitHub Stats">
+            </td>
+            <td>
+                <a href="https://github.com/anuraghazra/github-readme-stats">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinademorirossato&layout=donut&theme=algolia" alt="Top Langs" />
+                </a>
+            </td>
+        </tr>
+    </table>
 </body>
 </html>
