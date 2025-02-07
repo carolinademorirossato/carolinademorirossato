@@ -10,11 +10,7 @@
     <h2>Estudante de Análise e Desenvolvimento de Sistemas FSG(Caxias do Sul)</h2>
     <p>Iniciando aprendizados em programação, focada em aprender cada dia mais e adquirir conhecimentos em tecnologia da informação.</p>
     <ul>
-        <li>Boa comunicação, responsabilidade, vontade de aprender e dedicação;</li>
         <li>Conhecimentos em Windows e informática básica;</li>
-        <li>Excel básico e avançado(gerencial);</li>
-        <li>Lógica de programação (FLEXXO);</li>
-        <li>PHP (FLEXXO).</li>
     </ul>
     <p>
         <strong>🌍</strong> Caxias do Sul/RS;<br>
