@@ -9,9 +9,6 @@
     <hr>
     <h2>Estudante de Análise e Desenvolvimento de Sistemas FSG(Caxias do Sul)</h2>
     <p>Iniciando aprendizados em programação, focada em aprender cada dia mais e adquirir conhecimentos em tecnologia da informação.</p>
-    <ul>
-        <li>Conhecimentos em Windows e informática básica;</li>
-    </ul>
     <p>
         <strong>🌍</strong> Caxias do Sul/RS;<br>
         <strong>✉️</strong> Email:<a href="mailto:crossato2147@gmail.com">crossato2147@gmail.com</a><br>
