@@ -67,6 +67,6 @@
           </a>
     </p>
     <h3>Top Langs</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinademorirossato&layout=donut-vertical&theme=algolia" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinademorirossato&layout=donut&theme=algolia" alt="Top Langs" />
 </body>
 </html>
