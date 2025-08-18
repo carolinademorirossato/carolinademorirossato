@@ -91,6 +91,5 @@ acadêmicos e oportunidades de estágio, para melhorar meus conhecimentos e adqu
             </td>
         </tr>
     </table>
-    ![Snake animation](https://raw.githubusercontent.com/carolinademorirossato/carolinademorirossato/output/snake.svg)
 </body>
 </html>
