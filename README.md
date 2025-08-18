@@ -10,10 +10,10 @@
     <h2>Estudante de Análise e Desenvolvimento de Sistemas - UCS</h2>
     <p>Cursando Análise e Desenvolvimento de Sistemas na UCS.Em constante aprendizado para aplicar e ampliar meus conhecimentos em programação e tecnologia. Buscando evoluir e melhorar minhas habilidades.</p>
     <p>
-        <strong>🌍</strong> Caxias do Sul/RS;<br>
+        <strong>🌍</strong> Caxias do Sul/RS<br>
         <strong>✉️</strong> Email:<a href="mailto:crossato2147@gmail.com">crossato2147@gmail.com</a><br>
         <strong>🤝</strong>Estou aberta a colaborar com Startups , projetos
-acadêmicos e oportunidades de estágio, para melhorar meus conhecimentos e adquirir experiência;<br>
+acadêmicos e oportunidades de estágio, para melhorar meus conhecimentos e adquirir experiência<br>
         <strong>⚡</strong> Adquirindo conhecimentos em Linux(Ubuntu).
     </p>
     <h3>Linguagens e conhecimentos</h3>
