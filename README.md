@@ -91,5 +91,9 @@ acadêmicos e oportunidades de estágio, para melhorar meus conhecimentos e adqu
             </td>
         </tr>
     </table>
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/snake-dark.svg">
+    <img alt="Snake animation" src="https://github.com/carolinademorirossato/carolinademorirossato/blob/output/snake.svg">
+</picture>
 </body>
 </html>
